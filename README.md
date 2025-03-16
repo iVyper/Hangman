@@ -19,8 +19,8 @@ This is a simple, console-based Hangman game written in C. The game randomly sel
 1. **Clone the Repository or Download the Files:**
 
    ```bash
-   git clone https://github.com/yourusername/hangman-c.git
-   cd hangman-c
+   git clone https://github.com/ivyper/Hangman.git
+   cd Hangman
 
 2. **Compile the Program:**
 
